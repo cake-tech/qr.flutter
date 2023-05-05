@@ -454,3 +454,4 @@ class _PaintMetrics {
     _innerContentSize = (_pixelSize * moduleCount) + gapTotal;
     _inset = (containerSize - _innerContentSize) / 2;
   }
+}
